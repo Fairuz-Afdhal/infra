@@ -1,0 +1,9 @@
+[submodule "caddy"]
+	path = caddy
+	url = https://github.com/Fairuz-Afdhal/caddy.git
+[submodule "duita"]
+	path = duita
+	url = https://github.com/Fairuz-Afdhal/duita.git
+[submodule "timelesshub"]
+	path = timelesshub
+	url = https://github.com/Fairuz-Afdhal/timelesshub.git
